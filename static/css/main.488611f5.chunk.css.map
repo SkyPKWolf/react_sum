@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,QACE,cAAe,CACf,kBAAmB","file":"main.488611f5.chunk.css","sourcesContent":["// styles go here\n.result {\n  font-size: 22px;\n  font-weight: bolder;\n}\n"]}
